@@ -3,3 +3,4 @@
 [Homework 2 (Ex 15.15)](https://github.com/saladnga/CS4410-Homeworks/blob/main/CS4410_HW2_VuHoang_1677986.ipynb)  
 [Homework 3 (Ex 15.8)](https://github.com/saladnga/CS4410-Homeworks/blob/main/Homework3_CS4410_VuHoang_1677986.ipynb)  
 [Homework 4 (Ex 15.17)](https://github.com/saladnga/CS4410-Homeworks/blob/main/CS4410_HW4_VuHoang_1677986.ipynb)
+[Homework 5 (Ex 15.18 & 15.21)](https://github.com/saladnga/CS4410-Homeworks/blob/main/CS4410_HW5_VuHoang_1677986.ipynb)

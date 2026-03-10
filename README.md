@@ -6,5 +6,5 @@
 [Homework 5 (Ex 15.18 & 15.21)](https://github.com/saladnga/CS4410-Homeworks/blob/main/CS4410_HW5_VuHoang_1677986.ipynb)  
 [Homework 6 (Ex 12.6)](https://github.com/saladnga/CS4410-Homeworks/blob/main/CS4410_HW6_VuHoang_1677986.ipynb)  
 [Homework 7 (Ex 16.1 and 16.4)](https://github.com/saladnga/CS4410-Homeworks/blob/main/CS4410_HW7_VuHoang_1677986.ipynb)  
-[Reference for Homework 7 (16_06.ipynb)](https://github.com/saladnga/CS4410-Homeworks/blob/main/16_06-Reference_for_HW7.ipynb) 
+[Reference for Homework 7 (16_06.ipynb)](https://github.com/saladnga/CS4410-Homeworks/blob/main/16_06-Reference_for_HW7.ipynb)  
 [Extra Credit](https://github.com/saladnga/CS4410-Homeworks/blob/main/ExtraCredits_CS4410_AnVuHoang_1677986.ipynb)  
